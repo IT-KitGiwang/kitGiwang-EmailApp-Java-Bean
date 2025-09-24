@@ -38,7 +38,7 @@
     </p>
 
     <!-- Return button -->
-    <form action="index.jsp" method="get" class="text-center">
+    <form action="index.html" method="get" class="text-center">
       <button type="submit"
               class="w-full bg-gradient-to-r from-blue-500 to-blue-700 text-white font-bold py-3 rounded-lg shadow-md
                      hover:from-blue-600 hover:to-blue-800 active:scale-95 transition duration-200">
