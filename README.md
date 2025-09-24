@@ -17,26 +17,6 @@ Một ứng dụng web đơn giản được xây dựng bằng Java Servlets v�
 -   **Server:** Tương thích với Apache Tomcat
 -   **Containerization:** Docker (có Dockerfile)
 
-## 📂 Cấu trúc thư mục
-
-Dự án tuân theo cấu trúc tiêu chuẩn của một dự án Maven Webapp.
-tranquoctruong-ex1-c6
-├── .idea/              # Cài đặt của IDE (IntelliJ)
-├── .mvn/               # Maven wrapper
-├── src
-│   ├── main
-│   │   ├── java/       # Chứa mã nguồn Java (Servlets, Beans,...)
-│   │   ├── resources/  # Chứa các file tài nguyên (properties, XML,...)
-│   │   └── webapp/     # Thư mục gốc của ứng dụng web
-│   │       ├── WEB-INF/    # Thư mục chứa cấu hình web (web.xml)
-│   │       ├── index.html  # Trang chủ của ứng dụng
-│   │       └── thanks.jsp  # Trang cảm ơn sau khi đăng ký
-│   └── test
-│       └── java/       # Chứa mã nguồn cho việc kiểm thử (Unit Tests)
-├── target/             # Chứa kết quả build của Maven (vd: file .war)
-├── .gitignore          # Các file và thư mục được Git bỏ qua
-├── Dockerfile          # Cấu hình để build Docker image
-└── pom.xml             # File cấu hình chính của Maven
 ## 🏃 Hướng dẫn cài đặt và chạy
 
 **Yêu cầu:**
