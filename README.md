@@ -20,9 +20,9 @@ Một ứng dụng web đơn giản được xây dựng bằng Java Servlets v�
 ## 🏃 Hướng dẫn cài đặt và chạy
 
 **Yêu cầu:**
--   JDK 11 hoặc mới hơn
+-   JDK 17 hoặc mới hơn
 -   Apache Maven
--   Apache Tomcat 9+ hoặc Docker
+-   Apache Tomcat 10+ hoặc Docker
 
 **Các bước thực hiện:**
 
